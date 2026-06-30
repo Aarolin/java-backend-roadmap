@@ -10,7 +10,7 @@
 
 - Block 0 / Day 1 — completed
 - Block 0 / Day 2 — completed
-- Block 0 / Day 3 — in progress
+- Block 0 / Day 3 — completed
 
 ## Current toolchain
 
@@ -36,3 +36,22 @@ projects/
 resources/
 └── useful technical materials
 ```
+
+## Current projects
+
+### sandbox-java-debug
+
+Small Java application used to practise:
+
+- compilation with `javac`;
+- execution with `java`;
+- packages and classpath;
+- IntelliJ debugger;
+- breakpoints and expression evaluation.
+
+## Repository rules
+
+- Generated files are not committed.
+- Secrets and employer data are never committed.
+- Every learning block produces code, notes, tests, or documentation.
+- Commit messages must explain the purpose of a change.
