@@ -20,3 +20,7 @@
 *.gif binary
 *.zip binary
 *.xlsx binary
+
+# Maven Wrapper scripts
+mvnw text eol=lf
+mvnw.cmd text eol=crlf
