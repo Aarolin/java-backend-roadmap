@@ -11,6 +11,7 @@
 - Block 0 / Day 1 — completed
 - Block 0 / Day 2 — completed
 - Block 0 / Day 3 — completed
+- Block 0 / Day 4 — completed
 
 ## Current toolchain
 
@@ -48,6 +49,17 @@ Small Java application used to practise:
 - packages and classpath;
 - IntelliJ debugger;
 - breakpoints and expression evaluation.
+
+### sandbox-maven-basics
+
+Small Java application used to practise:
+
+- Maven project structure;
+- `pom.xml`;
+- dependencies;
+- lifecycle phases;
+- Maven Wrapper;
+- running Java through Maven.
 
 ## Repository rules
 
